@@ -20,7 +20,9 @@ Chekout my [CV](https://nikhilghanathe.github.io/files/NikhilPratapGhanatheCV.pd
 <h1> Publications </h1>
 <hr>
 
-<p style="font-size:24px"> <span style="color:brown;font-size:22px">[Under Review] </span><a href=" ">QUTE: Quantifying Uncertainty in TinyML models with Early-exit-assisted ensembles</a><br><span style="font-size:18px"><b>Nikhil P Ghanathe</b>, Steve Wilton <br><em>Preprint <b></b>, 2024</em></span> </p>
+<p style="font-size:24px"> <span style="color:brown;font-size:22px">[MlforSys'24] </span><a href=" ">DEBUG-HD: Debugging TinyML models on-device using Hyper-Dimensional computing</a><br><span style="font-size:18px"><b>Nikhil P Ghanathe</b>, Steven J E Wilton <br><em>Machine Learning for Systems Workshop at NeurIPS <b></b>, 2024</em></span> </p>
+
+<p style="font-size:24px"> <span style="color:brown;font-size:22px">[Under Review] </span><a href=" ">QUTE: Quantifying Uncertainty in TinyML with Early-exit-assisted ensembles for model monitoring</a><br><span style="font-size:18px"><b>Nikhil P Ghanathe</b>, Steven J E Wilton <br><em>Preprint <b></b>, 2024</em></span> </p>
 
 <p style="font-size:24px"> <span style="color:brown;font-size:22px">[CF '23] </span><a href="https://arxiv.org/abs/2207.06613">T-RecX: Tiny-Resource Efficient Convolutional neural networks with early-eXit</a><br><span style="font-size:18px"><b>Nikhil P Ghanathe</b>, Steve Wilton <br><em>International Conference on Computing Frontiers <b>(CF)</b>, 2023</em></span> </p>
 
