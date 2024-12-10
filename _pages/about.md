@@ -24,6 +24,8 @@ Chekout my [CV](https://nikhilghanathe.github.io/files/NikhilPratapGhanatheCV.pd
 
 <p style="font-size:24px"> <span style="color:brown;font-size:22px">[Under Review] </span><a href=" ">QUTE: Quantifying Uncertainty in TinyML with Early-exit-assisted ensembles for model monitoring</a><br><span style="font-size:18px"><b>Nikhil P Ghanathe</b>, Steven J E Wilton <br><em>Preprint <b></b>, 2024</em></span> </p>
 
+<p style="font-size:24px"> <span style="color:brown;font-size:22px">[MLCAD '24] </span><a href=" ">Enabling Risk Management of Machine Learning Predictions for FPGA Routability</a><br><span style="font-size:18px">Andrew David Gunter, Maya Thomas, <b>Nikhil P Ghanathe</b>, Steven J E Wilton <br><em>2024 ACM/IEEE International Symposium on Machine Learning for CAD <b>(MLCAD)</b>, 2024</em></span> </p>
+
 <p style="font-size:24px"> <span style="color:brown;font-size:22px">[CF '23] </span><a href="https://arxiv.org/abs/2207.06613">T-RecX: Tiny-Resource Efficient Convolutional neural networks with early-eXit</a><br><span style="font-size:18px"><b>Nikhil P Ghanathe</b>, Steve Wilton <br><em>International Conference on Computing Frontiers <b>(CF)</b>, 2023</em></span> </p>
 
 <p style="font-size:24px"> <span style="color:brown;font-size:22px">[FPL '21] </span><a href="https://arxiv.org/abs/2107.03653">MAFIA: Machine Learning Acceleration on FPGAs for IoT Applications</a><br><span style="font-size:18px"><b>Nikhil P Ghanathe</b>, Vivek Seshadri, Rahul Sharma, Steve Wilton, Aayan Kumar <br><em>International Conference on Field-Programmable Logic and Applications <b>(FPL)</b>, 2021</em></span> </p>

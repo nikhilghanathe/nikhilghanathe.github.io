@@ -3,7 +3,7 @@ title: "QUTE: Quantifying Uncertainty in TinyML with Early-exit-assisted ensembl
 collection: publications
 permalink: /publication/QUTE
 excerpt: 'This paper describes a resource-efficient method to practically quantify uncertainty for tinyML model-monitoring while meeting the strict tinyML constraints.'
-date: 2024-04-19
+date: 2024-11-16
 venue: 'Under Review'
 paperurl: 'http://nikhilghanathe.github.io/files/QUTE.pdf'
 citation: #'Under Review' #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
